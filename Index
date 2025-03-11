@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lunch Money – Turn Retail Into Profit</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <h1>Turn Retail Into Profit with Lunch Money 💰</h1>
+        <p>Never pay resell again—be the one flipping. Secure **real-time alerts, retail monitors, free botting,** and more.</p>
+        <a href="#" class="cta-button">Join Now</a>
+    </header>
+
+    <!-- Features Section -->
+    <section class="features">
+        <h2>What You Get</h2>
+        <div class="feature-list">
+            <div class="feature">
+                <h3>⚡ Retail Monitors</h3>
+                <p>Instant alerts on restocks, hidden discounts, and price errors.</p>
+            </div>
+            <div class="feature">
+                <h3>🤖 Free Retail Botting</h3>
+                <p>Skip the lines & check out before anyone else.</p>
+            </div>
+            <div class="feature">
+                <h3>📈 Expert Resell Guidance</h3>
+                <p>Learn from pros who’ve made thousands flipping.</p>
+            </div>
+            <div class="feature">
+                <h3>🔥 Pokémon, Sneakers & More</h3>
+                <p>We track every profitable retail product.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section class="pricing">
+        <h2>Start Making Money Today</h2>
+        <div class="price-card">
+            <h3>Lunch Money Membership</h3>
+            <p>💰 Access to all features, **real-time alerts, & exclusive flips**</p>
+            <p><strong>$X/month</strong></p>
+            <a href="#" class="cta-button">Join Now</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2025 Lunch Money. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
